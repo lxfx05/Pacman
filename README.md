@@ -140,23 +140,3 @@ Thanks to the original Pac-Man team at Namco for creating such an enduring game.
 
 Thanks to the Ms. Pac-Man team at GCC for improving Pac-Man with a variety of aesthetic maps that I based the map generator on.
 
-Links to Public Feedback
-------------------------
-
-- http://www.reddit.com/r/programming/comments/z0tuv/historical_tribute_and_accurate_remake_of_the/
-- http://www.reddit.com/r/javascript/comments/z7bc0/very_polished_javascript_remake_of_pac_man/
-- http://www.reddit.com/r/webdev/comments/z85lj/quite_accurate_remake_of_pacman_in_js/
-- http://news.ycombinator.com/item?id=4448539
-- http://news.ycombinator.com/item?id=4464006
-- http://www.lockergnome.com/news/2012/09/02/play-pac-man-online-for-free-no-download/
-- http://www.atariage.com/forums/topic/202594-html5-pac-man/
-- http://boards.straightdope.com/sdmb/showthread.php?t=664081
-- http://www.classicarcadegaming.com/forums/index.php?topic=4563.0
-- http://news.dice.com/2012/09/04/pac-man-online-open-source/
-
-
-
-[1]: https://bitbucket.org/shaunew/pac-man/raw/4714800233a9/shots/montage2.png
-[2]: https://bitbucket.org/shaunew/pac-man/raw/4714800233a9/shots/learn.png
-[3]: https://bitbucket.org/shaunew/pac-man/raw/4714800233a9/shots/practice.png
-[4]: https://bitbucket.org/shaunew/pac-man/raw/4714800233a9/shots/procedural.png
